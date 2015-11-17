@@ -1,5 +1,6 @@
 var app = angular.module('caffeinehit.services', []);
 
+//           name          $q service = promise
 app.service("YelpService", function ($q, $http) {
 	var self = {
 		'page': 1,
