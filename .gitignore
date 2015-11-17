@@ -4,6 +4,8 @@
 node_modules/
 platforms/
 plugins/
-.DS_Store
 ionic.project
+.DS_Store
 .io-config.json
+.bowerrc
+.editorconfig
