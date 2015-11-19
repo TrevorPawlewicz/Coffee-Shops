@@ -1,4 +1,4 @@
-# Coffee-Shops
+# Coffee-Shops ...in progress.
 coffee shop locator built in ionic using Yelp's API
 
 ![ionic framework](http://www.appfutura.com/blog/wp-content/uploads/2015/05/ionic.jpg "Ionic framework")
